@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nanhai-core/nanhai-core.iml" filepath="$PROJECT_DIR$/nanhai-core/nanhai-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanhai-eureka-server/nanhai-eureka-server.iml" filepath="$PROJECT_DIR$/nanhai-eureka-server/nanhai-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanhai-parent/nanhai-parent.iml" filepath="$PROJECT_DIR$/nanhai-parent/nanhai-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nanhai-root.iml" filepath="$PROJECT_DIR$/nanhai-root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nh-userservice/nh-userservice.iml" filepath="$PROJECT_DIR$/nh-userservice/nh-userservice.iml" />
+    </modules>
+  </component>
+</project>

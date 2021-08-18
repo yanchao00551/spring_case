@@ -1,0 +1,22 @@
+#用户微服务端口
+server:
+  port: 2100
+
+#用户微服务的应用名/服务ID
+spring:
+  application.name: userservice
+
+
+#Eureka 相关配置
+eureka:
+  instance:
+    hostname: localhost
+    prefer-ip-address: true
+    ipAddress: 127.0.0.1
+  client:
+    register-with-eureka: true
+    fetch-registry: true 
+    service-url:
+      defaultZone: http://user:123@127.0.0.1:8260/eureka
+
+#这里省略了Logger 、JPA等配置
